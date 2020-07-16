@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         //고은찬 안드로이드 스튜디오에서 청아누나꺼 열어서 코드 반영하기
         //version control에서 변경사항들 확인 가능
 
-      // 병국 수정
+      // 병국 수정함.
     }
 
     @Override
